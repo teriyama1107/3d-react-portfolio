@@ -1,0 +1,11 @@
+Model Information:
+* title:	MH-6 Little Bird
+* source:	https://sketchfab.com/3d-models/mh-6-little-bird-b0df06e4a7aa4a9980ddf3e8ec771ee2
+* author:	karmy2k (https://sketchfab.com/karmy2k)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "MH-6 Little Bird" (https://sketchfab.com/3d-models/mh-6-little-bird-b0df06e4a7aa4a9980ddf3e8ec771ee2) by karmy2k (https://sketchfab.com/karmy2k) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
